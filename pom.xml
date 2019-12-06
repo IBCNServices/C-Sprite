@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>CSprite</groupId>
 	<artifactId>CSprite</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
@@ -50,7 +50,7 @@
 		<dependency>
 			<groupId>com.sparkjava</groupId>
 			<artifactId>spark-core</artifactId>
-			<version>2.7.1</version>
+			<version>2.7.2</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.apache.jena/jena-arq -->
 		<dependency>
